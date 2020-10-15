@@ -1,5 +1,5 @@
 ### Capstone-Project_Lending-Club-Data
-For this project I would like to dive into three points:
+I worked at the bank before and am always curious how the bank decides who they would approve and who they would decline for a loan. For that reason, I choose to work on this Lending Club data and I devide this project into three points:
 1/ What are relationships of each categories with the bank's approval decision? 
 2/ How those categories effect the loan's default risk?
 3/ I also want to predict the risk of loans being default based on the past loan data. 
