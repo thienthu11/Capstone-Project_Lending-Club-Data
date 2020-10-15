@@ -15,26 +15,11 @@ The data files contain complete loan data for all loans issued from quater 2 of 
 ### Project Outline: 
 I break this project down to 3 main parts: Exploring and observing, Analyzing main variables and Machine Learning_Modeling
 
-I. Exploring and observing the data to understand more about the data: what information containt in the data, what type of the data and so on. This step will help me to pick important variables to build my models later on. Ste
-a) D
-b) Similar Distributions
+I. Exploring and observing the data to understand more about the data: what information containt in the data, what type of the data and so on. This step will help me to pick important variables to build my models later on. Steps include in this part: creating meta data, converting variables to correct/needed type such as numeric, date, replacing missing values with 0 and defining default loans.
 
 
-II. Good Loans vs Bad Loans
-a) Types of Loans
-b) Loans issued by Region
-c) A Deeper Look into Bad Loans
+II. Analyzing main variables: I will look deeper into the default loans such as default rate based on grade and interest rate. I also check the relationship between annual income, interest rate, grade and loan amount, funded amount, funded amount invested.
+
+III. Machine learning_Modeling: Logistic Regression, Linear Model, Decision Tree, Random Forest and Stochastic Gradient Boosting.
 
 
-III. The Business Perspective
-a) Understanding the Operative side of Business
-b) Analysis by Income Category
-
-
-IV. Assesing Risks
-a) Understanding the Risky Side of Business
-b) The importance of Credit Scores
-c) What determines a bad loan
-d) Defaulted Loans e) Risks by Purposes
-
-References:
